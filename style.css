@@ -1,0 +1,784 @@
+
+Fairy Coven
+Próximas atividades
+Nenhuma atividade para a próxima semana!
+
+Escreva um aviso para sua turma
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 12:4212:42
+1
+Exibindo noimage.png
+noimage.png
+
+index.html
+HTML
+
+script.js
+JavaScript
+
+style.css
+Folha de estilo
+
+Adicionar comentário para a turma...
+
+
+Postada por Guilherme Costa
+Guilherme Costa
+Criado em: 11:0911:09
+ALL THE LADIES LETS GET IN FORMATION
+Exibindo Captura de tela 2024-11-05 111214.png
+Captura de tela 2024-11-05 111214.png
+
+Adicionar comentário para a turma...
+
+
+Postada por Guilherme Costa
+Guilherme Costa
+Criado em: 10:5910:59
+https://tutorial.expertchat.me/ai-master/plagiarism?landing_uuid=a4ad9c23-febd-4484-aece-ccdf62704d70&utm_source=21832445913&utm_campaignid=21832445913&utm_medium=173171617870&utm_content=718352120333&keyword=copyspider&source=google&trafficsource=Search&utm_campaign=AIMaster_SP_PT_STARNEST-4_23.10_ScanMaster&gad_source=1&gclid=Cj0KCQiAoae5BhCNARIsADVLzZcrIbQ466NxxNhVIce1GXpzldZ-BbZE5rwOx4bHoY0sfC1StReDpMwaAic7EALw_wcB
+
+Adicionar comentário para a turma...
+
+
+Postada por Kadu
+Kadu
+Criado em: 10:2110:21
+Como o letramento racial pode combater o racismo na sociedade brasileira? produza uma redeção dissertativa com 4 paragrafos
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 08:5008:50
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Calendario</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="hero">
+        <div class="calendar">
+            <div class="left">
+             <p id="date">01</p>
+             <p id="day">Sunday</p>
+            </div>
+            <div class="right">
+            <p id="month">January</p>
+            <p id="year">2024</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    const date = document.getElementById('date')
+    const day = document.getElementById('day')
+    const month = document.getElementById('month')
+    const year = document.getElementById('year')
+    const today = new date()
+    console.log(today)
+    date.innerHTML = today.getDate()
+    day.innerHTML = today.tolocaleString('pt-br', {weekday: 'long'})
+    month.innerHTML = today.tolocaleString ('pt-br', {month: "long"})
+    year.innerHTML=today.getfullYear()
+</script>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 08:4808:48
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&#39&#39;);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #1d0000, #20205b);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calendar{
+ width: 300px;
+ height: 250px;
+ background: #fff;
+ display: flex;
+ align-items: center;
+ border-radius: 10px;
+}
+
+.left, .right{
+    height: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 24px;
+}
+
+.right{
+    width: 42%;
+    background: #f4351e;
+    color: #fff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.left{
+    width: 58%;
+}
+
+#date{
+    font-size: 100px;
+    line-height: 90px;
+}
+
+#month{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#year{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#day{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por Guilherme Costa
+Guilherme Costa
+Criado em: 08:1808:18
+for gui:
+https://boxd.it/DJEM
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 08:1408:14
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Calendario</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="hero">
+        <div class="calendar">
+            <div class="left">
+             <p id="date">01</p>
+             <p id="day">Sunday</p>
+            </div>
+            <div class="right">
+            <p id="month">January</p>
+            <p id="year">2024</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 08:1308:13
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&#39&#39;);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(45deg), #1d0000, #20205b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calendar{
+ width: 300px;
+ height: 250px;
+ background: #fff;
+ display: flex;
+ align-items: center;
+ border-radius: 10px;
+}
+
+.left, .right{
+    height: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 24px;
+}
+
+.right{
+    width: 42%;
+    background: #f4351e;
+    color: #fff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.left{
+    width: 58%;
+}
+
+#date{
+    font-size: 100px;
+    line-height: 90px;
+}
+
+#month{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#year{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#day{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por Daniel Henrique
+Daniel Henrique
+Criado em: 08:0808:08
+.right{
+    width: 42%;
+    background: #f4351e;
+    color: #fff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.left{
+    width: 58%;
+}
+
+#date{
+
+}
+
+#month{
+
+}
+
+#year{
+
+}
+
+#day{
+   
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por Daniel Henrique
+Daniel Henrique
+Criado em: 08:0008:00
+.left, .right{
+    height: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 24px;
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por Daniel Henrique
+Daniel Henrique
+Criado em: 07:5007:50
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&#39;);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.hero{
+    width: 100%
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 07:4507:45
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Calendario</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="hero">
+        <div class="calendar">
+            <div class="left">
+             <p id="date">01</p>
+             <p id="day">Sunday</p>
+            </div>
+            <div class="right">
+            <p id="month">January</p>
+            <p id="year">2024</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 07:3207:32
+6
+
+05.11.rar
+Arquivo compactado
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 07:2807:28
+//  let numInicial = Number(prompt("Digite o número inicial:"));
+//         let numFinal = Number(prompt("Digite o número final:"));
+//         let resultado = `Números de ${numInicial} a ${numFinal}: `;
+//         for (let i = numInicial; i <= numFinal; i++) {
+//             resultado += i + "; ";
+//         }
+//         alert(resultado);
+
+
+
+
+
+
+
+//   let resultado = "Números ímpares entre 100 e 200: ";
+// for (let i = 101; i < 200; i += 2) {
+//     resultado += i + " ; ";
+//  }
+// alert(resultado);
+
+
+
+
+
+
+
+
+
+// let totalAlunos = 10;
+// let resultado = "";
+// for (let i = 1; i <= totalAlunos; i++) {
+//     let nota1 = Number(prompt(`Digite a primeira nota do aluno ${i}:`));
+//     let nota2 = Number(prompt(`Digite a segunda nota do aluno ${i}:`));
+//     let media = (nota1 + nota2) / 2;
+//     resultado += `A média do aluno ${i} é: ${media} ; `;
+// }
+// alert(resultado);
+
+
+
+
+
+
+
+// let soma = 0;
+// for (let i = 1; i <= 10; i++) {
+//     let numero = parseInt(prompt(`Digite o ${i}º número:`));
+//     soma += numero;
+// }
+
+// alert(`A soma de todos os números lidos é: ${soma}`);
+
+// Pergunta quantas idades o usuário deseja informar
+
+
+
+
+
+
+
+let quantidade = parseInt(prompt("Quantas idades você deseja informar?"));
+
+let somaIdadeMaior = 0;
+let contadorMaior = 0;
+
+for (let i = 1; i <= quantidade; i++) {
+    let idade = parseInt(prompt(`Digite a idade da ${i}ª pessoa:`));
+
+    // Verifica se a pessoa é maior de idade
+    if (idade >= 18) {
+        somaIdadeMaior += idade;  // Soma as idades das pessoas maiores de idade
+        contadorMaior++;          // Conta quantas pessoas maiores de idade foram informadas
+    }
+}
+
+// Se houver pessoas maiores de idade
+if (contadorMaior > 0) {
+    let mediaIdadeMaior = somaIdadeMaior / contadorMaior;  // Calcula a média das idades
+    alert(`A soma das idades das pessoas maiores de idade é: ${somaIdadeMaior}`);
+    alert(`A média de idade das pessoas maiores de idade é: ${mediaIdadeMaior}`);
+} else {
+    alert("Nenhuma pessoa maior de idade foi informada.");
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+// let numInicial = Number(prompt("Digite o número inicial:"));
+//         let numFinal = Number(prompt("Digite o número final:"));
+//         let resultado = `Números de ${numInicial} a ${numFinal}: `;
+//         for (let i = numInicial; i <= numFinal; i++) {
+//             resultado += i + "; ";
+//         }
+//         alert(resultado);
+
+
+// let resultado = "Números ímpares entre 100 e 200: ";
+// for (let i = 101; i < 200; i += 2) {
+//    resultado += i + " ; ";
+// }
+//alert(resultado);
+
+
+
+
+
+
+
+
+
+
+let totalAlunos = 10;
+let resultado = "";
+for (let i = 1; i <= totalAlunos; i++) {
+    let nota1 = Number(prompt(`Digite a primeira nota do aluno ${i}:`));
+    let nota2 = Number(prompt(`Digite a segunda nota do aluno ${i}:`));
+    let media = (nota1 + nota2) / 2;
+    resultado += `A média do aluno ${i} é: ${media} ; `;
+}
+alert(resultado);
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+// *Estrutura de repitição FOR*/
+// Imprime de 0 a 9
+// for(let i=0;1<10;i++){
+//    alert(i);
+// mostrar no console
+// console.log(i);
+// }
+
+// //imprimir de 2 em 2
+// for(let i=0;1<10;i+=2){
+//     console.log(i);
+// }
+
+// //verifica se o número é par ou impar
+// //usar o operador mod % que retorna o resto da divisão
+// for(let i=1;i<=5;i++){
+//     let numero = Number(prompt("Digite o número"));
+//     if (numero%2 == 0)
+//         alert('O numero '+numero+ ' é par.');
+//     else{
+//         alert('O número'+numero+' é impar.');
+//     }
+// }
+
+//conta quantas letras 'a' tem no nome
+//utilizar for of
+// let nome = 'Jeniffer';
+// let contador = 0;
+// //length é o comprimento de caracteres de um texto
+//     alert('seu nome tem: '+nome.length+' letra');
+//     for(let letra_atual of nome){
+//        if (letra_atual==='a'){
+//        contador++;
+//     }
+// }
+// //alert(nome+' tem '+contador+' letras a.');
+// //mostrando variaveis no texto sem o +
+// alert('o nome ${nome} tem ${contador} letras a');
+
+Adicionar comentário para a turma...
+
+
+Postada por Ana Mayoral
+Ana Mayoral
+Criado em: 31 de out.31 de out.
+for(let i=0;i<10;i++){
+    //alert(i);
+    console.log (i);
+}
+for(let i=0;i<=10;i+=2){
+    console.log(i);
+}
+
+Adicionar comentário para a turma...
+
+
+Postada por Guilherme Costa
+Guilherme Costa
+Criado em: 31 de out.31 de out.
+Secrets From The Girl - Lorde, Solar Power
+
+Exercicios SQL.docx
+Word
+
+Adicionar comentário para a turma...
+
+
+Postada por Ana Mayoral
+Ana Mayoral
+Criado em: 31 de out.31 de out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estrutura Repetição For</title>
+</head>
+<body>
+    <h1>Estrutura Repetição For</h1>
+    <img src="Captura de tela 2024-10-31 072048.png"><br>
+    <img src="Captura de tela 2024-10-31 072104.png"><br>
+    <img src="Captura de tela 2024-10-31 072112.png"><br>
+</body>
+<script src="script.js"></script>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+9
+Exibindo imagem 8.PNG
+imagem 8.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+6
+Exibindo imagem 7.PNG
+imagem 7.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+6
+Exibindo imagem 6.PNG
+imagem 6.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+2
+Exibindo imagem 5.PNG
+imagem 5.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+3
+Exibindo a porra da tabela.PNG
+a porra da tabela.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+6
+Exibindo imagem 4.PNG
+imagem 4.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+3
+Exibindo imagem 3.PNG
+imagem 3.PNG
+
+Adicionar comentário para a turma...
+
+
+Postada por jeniffer oliveira
+jeniffer oliveira
+Criado em: 31 de out.31 de out.
+1
+Exibindo imagem 1.png
+imagem 1.png
+
+imagem 2.png
+Imagem
+
+Adicionar comentário para a turma...
+
+
+Postada por Daniel Henrique
+Daniel Henrique
+Criado em: 31 de out.31 de out.
+passo 1
+Exibindo Captura de tela 2024-10-31 091038.png
+Captura de tela 2024-10-31 091038.png
+
+Adicionar comentário para a turma...
+
+
+Postada por Ana Mayoral
+Ana Mayoral
+Criado em: 29 de out.29 de out.
+ó
+Exibindo Captura de tela 2024-10-29 123201.png
+Captura de tela 2024-10-29 123201.png
+
+Captura de tela 2024-10-29 123218.png
+Imagem
+
+Captura de tela 2024-10-29 123608.png
+Imagem
+
+Captura de tela 2024-10-29 123625.png
+Imagem
+
+Adicionar comentário para a turma...
+
+Fairy CovenFairy Coven
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Poppins;
+    background-color: #dcdcdc;
+}
+.container{
+    width: 340px;
+    background-color: #eeebeb;
+    color: #191919;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    box-shadow: 20px 20px 50px #19191955;
+}
+.container h1{
+    margin: 0;
+    font-size: x-large;
+    font-weight: 500;
+}
+.container .image img{
+    width: 250px;
+}
+.container .image{
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 15%;
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.form input{
+    margin-top: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    padding: 20px;
+    background-color: #dcd9d9;
+    border-radius: 5px;
+    font-family: Poppins;
+    outline: none;
+}
+.form button{
+    background-color: #2aca8e;
+    width: 100%;
+    border: none;
+    color: #fff;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-family: Poppins;
+    font-weight: bold;
+    cursor: pointer;
+}
